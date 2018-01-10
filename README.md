@@ -22,4 +22,4 @@ Features:
      Dynamic cropping is also available.
 * Image can be rotated and zoomed.
 
-[[https://github.com/divitkarnawat/PhotoEditor_DroidWars/blob/master/photo-editor-android-master/app/src/main/res/drawable/Screenshot_20180111-010059.png]]
+!(https://github.com/divitkarnawat/PhotoEditor_DroidWars/blob/master/photo-editor-android-master/app/src/main/res/drawable/Screenshot_20180111-010059.png)
