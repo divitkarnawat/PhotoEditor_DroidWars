@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="ucrop_height_horizontal_wheel_progress_line">20dp</dimen>
+
+    <dimen name="ucrop_width_horizontal_wheel_progress_line">2dp</dimen>
+
+    <dimen name="ucrop_margin_horizontal_wheel_progress_line">10dp</dimen>
+    <dimen name="image_loader_post_width">450dp</dimen>
+
+    <!-- Brush sizes -->
+
+
+    <dimen name="small_brush">10dp</dimen>
+
+    <integer name="small_size">10</integer>
+
+    <dimen name="medium_brush">20dp</dimen>
+
+    <integer name="medium_size">20</integer>
+
+    <dimen name="large_brush">30dp</dimen>
+
+    <integer name="large_size">30</integer>
+</resources>
